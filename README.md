@@ -1,6 +1,6 @@
-INTERVIEW TASK - Software Test Engineer
+#INTERVIEW TASK - Software Test Engineer
 
-This test suite covers following apo methods:
+This test suite covers following api methods:
 
 - GET IDs of Allegro categories
 - GET a category by ID
