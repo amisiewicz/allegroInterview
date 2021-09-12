@@ -4,7 +4,7 @@
   "description": "Allegro interview API test",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --reporter mochawesome"
+    "test": "mocha --reporter mochawesome"
   },
   "keywords": [
     "allegro",
