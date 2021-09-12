@@ -21,7 +21,7 @@ Before running tests, please set below environment variables:
 
 - ```ALLEGRO_CLIENT_ID``` - Client Id
 - ```ALLEGRO_SECRET``` - Client Secret
-- ```ALLEGRO_helper.API_ROOT_URL``` - eg. 'https://api.allegro.pl/'
+- ```ALLEGRO_API_ROOT_URL``` - eg. 'https://api.allegro.pl/'
 
 ### Running test:
 
