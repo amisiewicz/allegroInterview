@@ -1,0 +1,729 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "categories": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "parent": {
+              "type": "null"
+            },
+            "leaf": {
+              "type": "boolean"
+            },
+            "options": {
+              "type": "object",
+              "properties": {
+                "variantsByColorPatternAllowed": {
+                  "type": "boolean"
+                },
+                "advertisement": {
+                  "type": "boolean"
+                },
+                "advertisementPriceOptional": {
+                  "type": "boolean"
+                },
+                "offersWithProductPublicationEnabled": {
+                  "type": "boolean"
+                },
+                "productCreationEnabled": {
+                  "type": "boolean"
+                },
+                "customParametersEnabled": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "variantsByColorPatternAllowed",
+                "advertisement",
+                "advertisementPriceOptional",
+                "offersWithProductPublicationEnabled",
+                "productCreationEnabled",
+                "customParametersEnabled"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "parent",
+            "leaf",
+            "options"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "parent": {
+              "type": "null"
+            },
+            "leaf": {
+              "type": "boolean"
+            },
+            "options": {
+              "type": "object",
+              "properties": {
+                "variantsByColorPatternAllowed": {
+                  "type": "boolean"
+                },
+                "advertisement": {
+                  "type": "boolean"
+                },
+                "advertisementPriceOptional": {
+                  "type": "boolean"
+                },
+                "offersWithProductPublicationEnabled": {
+                  "type": "boolean"
+                },
+                "productCreationEnabled": {
+                  "type": "boolean"
+                },
+                "customParametersEnabled": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "variantsByColorPatternAllowed",
+                "advertisement",
+                "advertisementPriceOptional",
+                "offersWithProductPublicationEnabled",
+                "productCreationEnabled",
+                "customParametersEnabled"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "parent",
+            "leaf",
+            "options"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "parent": {
+              "type": "null"
+            },
+            "leaf": {
+              "type": "boolean"
+            },
+            "options": {
+              "type": "object",
+              "properties": {
+                "variantsByColorPatternAllowed": {
+                  "type": "boolean"
+                },
+                "advertisement": {
+                  "type": "boolean"
+                },
+                "advertisementPriceOptional": {
+                  "type": "boolean"
+                },
+                "offersWithProductPublicationEnabled": {
+                  "type": "boolean"
+                },
+                "productCreationEnabled": {
+                  "type": "boolean"
+                },
+                "customParametersEnabled": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "variantsByColorPatternAllowed",
+                "advertisement",
+                "advertisementPriceOptional",
+                "offersWithProductPublicationEnabled",
+                "productCreationEnabled",
+                "customParametersEnabled"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "parent",
+            "leaf",
+            "options"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "parent": {
+              "type": "null"
+            },
+            "leaf": {
+              "type": "boolean"
+            },
+            "options": {
+              "type": "object",
+              "properties": {
+                "variantsByColorPatternAllowed": {
+                  "type": "boolean"
+                },
+                "advertisement": {
+                  "type": "boolean"
+                },
+                "advertisementPriceOptional": {
+                  "type": "boolean"
+                },
+                "offersWithProductPublicationEnabled": {
+                  "type": "boolean"
+                },
+                "productCreationEnabled": {
+                  "type": "boolean"
+                },
+                "customParametersEnabled": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "variantsByColorPatternAllowed",
+                "advertisement",
+                "advertisementPriceOptional",
+                "offersWithProductPublicationEnabled",
+                "productCreationEnabled",
+                "customParametersEnabled"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "parent",
+            "leaf",
+            "options"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "parent": {
+              "type": "null"
+            },
+            "leaf": {
+              "type": "boolean"
+            },
+            "options": {
+              "type": "object",
+              "properties": {
+                "variantsByColorPatternAllowed": {
+                  "type": "boolean"
+                },
+                "advertisement": {
+                  "type": "boolean"
+                },
+                "advertisementPriceOptional": {
+                  "type": "boolean"
+                },
+                "offersWithProductPublicationEnabled": {
+                  "type": "boolean"
+                },
+                "productCreationEnabled": {
+                  "type": "boolean"
+                },
+                "customParametersEnabled": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "variantsByColorPatternAllowed",
+                "advertisement",
+                "advertisementPriceOptional",
+                "offersWithProductPublicationEnabled",
+                "productCreationEnabled",
+                "customParametersEnabled"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "parent",
+            "leaf",
+            "options"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "parent": {
+              "type": "null"
+            },
+            "leaf": {
+              "type": "boolean"
+            },
+            "options": {
+              "type": "object",
+              "properties": {
+                "variantsByColorPatternAllowed": {
+                  "type": "boolean"
+                },
+                "advertisement": {
+                  "type": "boolean"
+                },
+                "advertisementPriceOptional": {
+                  "type": "boolean"
+                },
+                "offersWithProductPublicationEnabled": {
+                  "type": "boolean"
+                },
+                "productCreationEnabled": {
+                  "type": "boolean"
+                },
+                "customParametersEnabled": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "variantsByColorPatternAllowed",
+                "advertisement",
+                "advertisementPriceOptional",
+                "offersWithProductPublicationEnabled",
+                "productCreationEnabled",
+                "customParametersEnabled"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "parent",
+            "leaf",
+            "options"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "parent": {
+              "type": "null"
+            },
+            "leaf": {
+              "type": "boolean"
+            },
+            "options": {
+              "type": "object",
+              "properties": {
+                "variantsByColorPatternAllowed": {
+                  "type": "boolean"
+                },
+                "advertisement": {
+                  "type": "boolean"
+                },
+                "advertisementPriceOptional": {
+                  "type": "boolean"
+                },
+                "offersWithProductPublicationEnabled": {
+                  "type": "boolean"
+                },
+                "productCreationEnabled": {
+                  "type": "boolean"
+                },
+                "customParametersEnabled": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "variantsByColorPatternAllowed",
+                "advertisement",
+                "advertisementPriceOptional",
+                "offersWithProductPublicationEnabled",
+                "productCreationEnabled",
+                "customParametersEnabled"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "parent",
+            "leaf",
+            "options"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "parent": {
+              "type": "null"
+            },
+            "leaf": {
+              "type": "boolean"
+            },
+            "options": {
+              "type": "object",
+              "properties": {
+                "variantsByColorPatternAllowed": {
+                  "type": "boolean"
+                },
+                "advertisement": {
+                  "type": "boolean"
+                },
+                "advertisementPriceOptional": {
+                  "type": "boolean"
+                },
+                "offersWithProductPublicationEnabled": {
+                  "type": "boolean"
+                },
+                "productCreationEnabled": {
+                  "type": "boolean"
+                },
+                "customParametersEnabled": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "variantsByColorPatternAllowed",
+                "advertisement",
+                "advertisementPriceOptional",
+                "offersWithProductPublicationEnabled",
+                "productCreationEnabled",
+                "customParametersEnabled"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "parent",
+            "leaf",
+            "options"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "parent": {
+              "type": "null"
+            },
+            "leaf": {
+              "type": "boolean"
+            },
+            "options": {
+              "type": "object",
+              "properties": {
+                "variantsByColorPatternAllowed": {
+                  "type": "boolean"
+                },
+                "advertisement": {
+                  "type": "boolean"
+                },
+                "advertisementPriceOptional": {
+                  "type": "boolean"
+                },
+                "offersWithProductPublicationEnabled": {
+                  "type": "boolean"
+                },
+                "productCreationEnabled": {
+                  "type": "boolean"
+                },
+                "customParametersEnabled": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "variantsByColorPatternAllowed",
+                "advertisement",
+                "advertisementPriceOptional",
+                "offersWithProductPublicationEnabled",
+                "productCreationEnabled",
+                "customParametersEnabled"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "parent",
+            "leaf",
+            "options"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "parent": {
+              "type": "null"
+            },
+            "leaf": {
+              "type": "boolean"
+            },
+            "options": {
+              "type": "object",
+              "properties": {
+                "variantsByColorPatternAllowed": {
+                  "type": "boolean"
+                },
+                "advertisement": {
+                  "type": "boolean"
+                },
+                "advertisementPriceOptional": {
+                  "type": "boolean"
+                },
+                "offersWithProductPublicationEnabled": {
+                  "type": "boolean"
+                },
+                "productCreationEnabled": {
+                  "type": "boolean"
+                },
+                "customParametersEnabled": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "variantsByColorPatternAllowed",
+                "advertisement",
+                "advertisementPriceOptional",
+                "offersWithProductPublicationEnabled",
+                "productCreationEnabled",
+                "customParametersEnabled"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "parent",
+            "leaf",
+            "options"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "parent": {
+              "type": "null"
+            },
+            "leaf": {
+              "type": "boolean"
+            },
+            "options": {
+              "type": "object",
+              "properties": {
+                "variantsByColorPatternAllowed": {
+                  "type": "boolean"
+                },
+                "advertisement": {
+                  "type": "boolean"
+                },
+                "advertisementPriceOptional": {
+                  "type": "boolean"
+                },
+                "offersWithProductPublicationEnabled": {
+                  "type": "boolean"
+                },
+                "productCreationEnabled": {
+                  "type": "boolean"
+                },
+                "customParametersEnabled": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "variantsByColorPatternAllowed",
+                "advertisement",
+                "advertisementPriceOptional",
+                "offersWithProductPublicationEnabled",
+                "productCreationEnabled",
+                "customParametersEnabled"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "parent",
+            "leaf",
+            "options"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "parent": {
+              "type": "null"
+            },
+            "leaf": {
+              "type": "boolean"
+            },
+            "options": {
+              "type": "object",
+              "properties": {
+                "variantsByColorPatternAllowed": {
+                  "type": "boolean"
+                },
+                "advertisement": {
+                  "type": "boolean"
+                },
+                "advertisementPriceOptional": {
+                  "type": "boolean"
+                },
+                "offersWithProductPublicationEnabled": {
+                  "type": "boolean"
+                },
+                "productCreationEnabled": {
+                  "type": "boolean"
+                },
+                "customParametersEnabled": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "variantsByColorPatternAllowed",
+                "advertisement",
+                "advertisementPriceOptional",
+                "offersWithProductPublicationEnabled",
+                "productCreationEnabled",
+                "customParametersEnabled"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "parent",
+            "leaf",
+            "options"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "parent": {
+              "type": "null"
+            },
+            "leaf": {
+              "type": "boolean"
+            },
+            "options": {
+              "type": "object",
+              "properties": {
+                "variantsByColorPatternAllowed": {
+                  "type": "boolean"
+                },
+                "advertisement": {
+                  "type": "boolean"
+                },
+                "advertisementPriceOptional": {
+                  "type": "boolean"
+                },
+                "offersWithProductPublicationEnabled": {
+                  "type": "boolean"
+                },
+                "productCreationEnabled": {
+                  "type": "boolean"
+                },
+                "customParametersEnabled": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "variantsByColorPatternAllowed",
+                "advertisement",
+                "advertisementPriceOptional",
+                "offersWithProductPublicationEnabled",
+                "productCreationEnabled",
+                "customParametersEnabled"
+              ]
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "parent",
+            "leaf",
+            "options"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "categories"
+  ]
+}
